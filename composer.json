@@ -1,0 +1,16 @@
+{
+    "name": "wpjscc/wn-health-plugin",
+    "description": "health within Winter CMS",
+    "type": "winter-plugin",
+    "require": {
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wpjscc"
+        }
+    ],
+    "extra": {
+        "installer-name": "health"
+    }
+}
